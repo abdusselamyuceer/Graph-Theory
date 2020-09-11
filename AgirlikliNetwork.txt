@@ -1,0 +1,5 @@
+İstanbul Kudüs 1 red
+İstanbul Ankara 5 orange
+Edirne İzmir 9 blue
+Kudüs Edirne 6 red
+Ankara Edirne 3 orange
